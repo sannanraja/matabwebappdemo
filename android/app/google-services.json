@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358299893996",
+    "project_id": "matabwebappdemo",
+    "storage_bucket": "matabwebappdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358299893996:android:3938c98be9525501ace5c9",
+        "android_client_info": {
+          "package_name": "com.example.matabwebappdem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358299893996-tihs4i0ab2odmm9lf2jkukgonf8kurm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTc9fapSLA-ROZycCBobW64FiOHO8yis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358299893996-tihs4i0ab2odmm9lf2jkukgonf8kurm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
